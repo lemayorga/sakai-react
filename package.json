@@ -27,5 +27,9 @@
     "eslint-config-next": "13.4.6",
     "prettier": "^2.8.8",
     "sass": "^1.63.4"
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/lemayorga/sakai-react.git",
+  "author": "Juan Carlos Alemán Mayorga <jaleman@people-apps.com>",
+  "license": "MIT"
 }
